@@ -1,0 +1,17 @@
+{
+  "name": "demoUser",
+  "namespace": "userDemo",
+  "format": "1",
+  "version": "1.0.0",
+  "creator": "demo",
+  "summary": "Short summary",
+  "detailedDescription": "Long description of package",
+  "type": "code",
+  "framework": "ext",
+  "toolkit": "classic",
+  "theme": "theme-triton",
+  "output": "${package.dir}/build",
+  "classpath": [
+    "${package.dir}/src"
+  ]
+}

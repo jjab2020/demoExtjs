@@ -1,0 +1,23 @@
+/**
+ * Created by jabrane.jabri on 9/19/2017.
+ The data of user list
+ */
+{
+  "data": [
+    {
+      "username": "Jack",
+      "surname": "Steff",
+      "birth": "2010-05-03"
+    },
+    {
+      "username": "jabrane",
+      "surname": "Jabri",
+      "birth": "2009-05-03"
+    },
+    {
+      "username": "Florian",
+      "surname": "Seman",
+      "birth": "2008-05-03"
+    }
+  ]
+}
